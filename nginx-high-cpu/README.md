@@ -1,7 +1,5 @@
 # 应用程序 CPU 使用率过高案例
 
-**《[Linux 性能优化实战](https://time.geekbang.org/column/intro/140)》第 05 篇案例。**
-
 案例场景：
 
 * 系统的用户 CPU 使用率（usr%）过高
